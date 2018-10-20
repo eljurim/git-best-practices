@@ -1,0 +1,6 @@
+Nombre: 		Manuel eljuri
+Edad: 			33
+Nacionalidad: 		Venezolana
+Originario de: 		Coro, Falcon
+Estudios:		Ing. en Computación
+Profesión:		Consultor de Procesos de Negocio
